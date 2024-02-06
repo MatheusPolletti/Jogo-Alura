@@ -1,7 +1,7 @@
 var carta1 = 
     {
       nome: "Bulbasauro", 
-      imagem: "https://i.pinimg.com/originals/c2/1a/ac/c21aacd5d092bf17cfff269091f04606.jpg", 
+      imagem: "https://i.pinimg.com/originals/c2/1a/ac/c21aacd5d092bf17cfff269091f04606.jpg", /* Usei a mesma imagem em todos */
       atributos: 
         {
           ataque: 7,
